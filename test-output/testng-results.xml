@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-25T21:54:26 IST" name="Default suite" finished-at="2024-09-25T21:55:01 IST" duration-ms="35825">
+    <groups>
+    </groups>
+    <test started-at="2024-09-25T21:54:26 IST" name="Default test" finished-at="2024-09-25T21:55:01 IST" duration-ms="35825">
+      <class name="testCaseBestBuy.TC_02_ValidateUrlIsNotBroken">
+        <test-method is-config="true" signature="startReport()[pri:0, instance:testCaseBestBuy.TC_02_ValidateUrlIsNotBroken@5b247367]" started-at="2024-09-25T21:54:25 IST" name="startReport" finished-at="2024-09-25T21:54:26 IST" duration-ms="348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCaseBestBuy.TC_02_ValidateUrlIsNotBroken@5b247367]" started-at="2024-09-25T21:54:26 IST" name="setup" finished-at="2024-09-25T21:54:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="testDetails()[pri:0, instance:testCaseBestBuy.TC_02_ValidateUrlIsNotBroken@5b247367]" started-at="2024-09-25T21:54:26 IST" name="testDetails" finished-at="2024-09-25T21:54:26 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDetails -->
+        <test-method is-config="true" signature="start()[pri:0, instance:testCaseBestBuy.TC_02_ValidateUrlIsNotBroken@5b247367]" started-at="2024-09-25T21:54:26 IST" name="start" finished-at="2024-09-25T21:54:34 IST" duration-ms="8746" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="tc_02_validateUrlIsNotBroken()[pri:2, instance:testCaseBestBuy.TC_02_ValidateUrlIsNotBroken@5b247367]" started-at="2024-09-25T21:54:34 IST" name="tc_02_validateUrlIsNotBroken" finished-at="2024-09-25T21:55:01 IST" duration-ms="26261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_02_validateUrlIsNotBroken -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testCaseBestBuy.TC_02_ValidateUrlIsNotBroken@5b247367]" started-at="2024-09-25T21:55:01 IST" name="close" finished-at="2024-09-25T21:55:01 IST" duration-ms="748" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:testCaseBestBuy.TC_02_ValidateUrlIsNotBroken@5b247367]" started-at="2024-09-25T21:55:01 IST" name="endReport" finished-at="2024-09-25T21:55:02 IST" duration-ms="960" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- testCaseBestBuy.TC_02_ValidateUrlIsNotBroken -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
